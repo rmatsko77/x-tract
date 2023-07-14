@@ -1,0 +1,26 @@
+.nav-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+    height: 5vh;
+    position: sticky;
+    top: 0;
+    background-color: #f2f4f3;
+    z-index: 8;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-around;
+    margin-top: .65rem;
+    list-style-type: none;
+    width: 100%;
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+
+.nav-list a:hover {
+    font-style: italic;
+    transform: scaleX(2rem);
+}

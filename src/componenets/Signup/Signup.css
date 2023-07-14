@@ -1,0 +1,56 @@
+.signup-container {
+    position: relative;
+    padding-bottom: 2rem;
+    max-height: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F4AFA5;
+}
+
+.signup-container h3 {
+    font-size: 1.2rem;
+}
+
+.promo {
+    max-width: 50%;
+    max-height: 15rem;
+    margin-top: 1rem;
+}
+
+.close-btn {
+    position: absolute;
+    right: 3%;
+    top: 3%;
+    border: none;
+    background-color: transparent;
+    font-size: 1.5rem;
+    transition: all .2s;
+}
+
+.close-btn:hover {
+    font-size: 1.7rem;
+}
+
+form {
+    width: 100%;
+}
+
+.email-input {
+    border: 1pt solid #253237;
+    border-right: none;
+    height: 3rem;
+    width: 35%;
+    padding-left: 1rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.signup-button {
+    border: 1pt solid #253237;
+    background-color: #253237;
+    color: #f2f4f3;
+    width: 25%;
+    height: 3rem;
+    letter-spacing: .2rem;
+
+}

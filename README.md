@@ -1,4 +1,4 @@
-# Coffee Shop Landing Page
+# x-tract Landing Page
 
 Welcome to the Coffee Shop Landing Page repository! This is a responsive website built using React, designed to serve as the online presence for a local coffee shop. The goal of this project is to provide an engaging and user-friendly experience for visitors while achieving a 100% SEO score.
 
